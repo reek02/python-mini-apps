@@ -1,2 +1,3 @@
 # python-mini-apps
-Quickeats - Restaurant Management System: A Python-based GUI for restaurant management using customtkinter, featuring an intuitive menu interface and dynamic order calculation.
+This repository contains a collection of Python applications developed using the Customtkinter library to create custom graphical user interfaces (GUIs) , making it ideal for developing desktop applications.
+
