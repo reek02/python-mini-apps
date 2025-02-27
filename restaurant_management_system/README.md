@@ -16,11 +16,9 @@ QuickEats is a simple yet advanced restaurant management system built using Pyth
 - **Python 3.6+**
 - [customtkinter](https://github.com/TomSchimansky/CustomTkinter)  
   Install via pip:
-  pip install customtkinter
-  pip install fpdf
+  pip install customtkinter , pip install fpdf
 
 ## Screenshots
 
-![App Screenshot](restaurant_management_system/Screenshot 2025-02-27 201821.png)
-
-![App Screenshot](restaurant_management_system/Screenshot 2025-02-27 201841.png)
+![App Screenshot](https://github.com/reek02/python-mini-apps/blob/main/restaurant_management_system/Screenshot%202025-02-27%20201841.png)
+![App Screenshot](https://github.com/reek02/python-mini-apps/blob/main/restaurant_management_system/Screenshot%202025-02-27%20201821.png)
