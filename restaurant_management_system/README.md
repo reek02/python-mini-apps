@@ -20,5 +20,6 @@ QuickEats is a simple yet advanced restaurant management system built using Pyth
 
 ## Screenshots
 
-![App Screenshot](https://github.com/reek02/python-mini-apps/blob/main/restaurant_management_system/Screenshot%202025-02-27%20201841.png)
 ![App Screenshot](https://github.com/reek02/python-mini-apps/blob/main/restaurant_management_system/Screenshot%202025-02-27%20201821.png)
+![App Screenshot](https://github.com/reek02/python-mini-apps/blob/main/restaurant_management_system/Screenshot%202025-02-27%20201841.png)
+
