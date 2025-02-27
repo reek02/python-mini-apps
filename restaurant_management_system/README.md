@@ -1,14 +1,26 @@
 
-# Quickeats - Restaurant Management System
+# QuickEats Restaurant Management
 
-"QuickEats" is a restaurant management system implemented in Python using the customtkinter library for GUI. It offers a user-friendly interface for customers to order items from a predefined menu, which includes options like Pizza, Pasta, Burger, Salads, Coffee, Sandwich, Tea, Juice, Fries, and Ice Cream, each with their respective prices.
+QuickEats is a simple yet advanced restaurant management system built using Python and customtkinter. It features a modern, two-column user interface for managing orders, including per-item quantity selection, discount functionality, and PDF generation of order details using FPDF.
 
-The system allows users to add items to their order, calculates the total amount dynamically, and displays the current order status. Key features include a responsive layout with labels, text entries, buttons, and a text box for order details. The GUI appearance can be customized between light and dark modes, with a default color theme of blue.
+## Features
 
-Overall, QuickEats provides a streamlined way for customers to interact with the restaurant menu, facilitating easy ordering and transaction management through a graphical interface.
+- **Modern UI:** Built with customtkinter with a responsive two-column layout.
+- **Dynamic Menu:** Browse a menu with per-item quantity inputs and add items to your order.
+- **Order Management:** View a real-time order summary, clear orders, and place orders.
+- **PDF Generation:** Automatically generate a PDF receipt with detailed order information.
+- **Discount Functionality:** Apply discount codes (e.g., "QUICK10" for 10% off).
+- **Status Feedback:** Instant status messages for user actions.
 
+## Requirements
+
+- **Python 3.6+**
+- [customtkinter](https://github.com/TomSchimansky/CustomTkinter)  
+  Install via pip:
+  pip install customtkinter
+  pip install fpdf
 
 ## Screenshots
 
-![App Screenshot](https://github.com/reek02/python-mini-apps/blob/main/restaurant_management_system/Screenshot%202024-07-16%20001013.png)
+![App Screenshot]()
 
