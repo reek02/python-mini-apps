@@ -1,4 +1,3 @@
-
 # QuickEats Restaurant Management
 
 QuickEats is a simple yet advanced restaurant management system built using Python and customtkinter. It features a modern, two-column user interface for managing orders, including per-item quantity selection, discount functionality, and PDF generation of order details using FPDF.
@@ -22,5 +21,5 @@ QuickEats is a simple yet advanced restaurant management system built using Pyth
 
 ## Screenshots
 
-![App Screenshot]()
-
+![App Screenshot](restaurant_management_system/Screenshot 2025-02-27 201821.png)
+![App Screenshot](restaurant_management_system/Screenshot 2025-02-27 201841.png)
