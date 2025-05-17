@@ -1,6 +1,6 @@
 # QR Code Generator Pro 🚀
 
-![QR Code Generator Demo]([https://via.placeholder.com/800x400.png?text=QR+Code+Generator+Interface+Preview](https://github.com/reek02/python-mini-apps/blob/main/qr-code-generator/Screenshot%202025-05-17%20121823.png))
+![QR Code Generator Demo](https://github.com/reek02/python-mini-apps/blob/main/qr-code-generator/Screenshot%202025-05-17%20121823.png)
 
 A QR code generator with advanced customization features, built using Python and CustomTkinter. Create stunning QR codes for business cards, marketing materials, product packaging, and digital campaigns with just a few clicks!
 
